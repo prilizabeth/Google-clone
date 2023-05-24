@@ -1,3 +1,4 @@
 # Google-clone
-Proyecto de práctica con html y css.
-Creación de clon de página de inicio de Google.
+### Práctica de HTML y CSS realizando un clon de página de inicio de Google.
+
+*Curso realizado: Curso Práctico de HTML y CSS de Platzi.*
